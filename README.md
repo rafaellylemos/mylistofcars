@@ -1,24 +1,31 @@
 <h1 align="center"> My List of Cars </h1>
 
-<p align="center">
+< align="center">
 Aplicação em CRUD desenvolvida para testar integração de API REST com HttpClient. 
-API REST fake, feita com Json. 
-
+API REST fake, feita com Json.
+<br>
+<br>
 --
+<br>
 CRUD application developed to test REST API integration with HttpClient.
 Fake REST API, made with Json.
-
+<br>
 OUT/2023
+<br>
+<br>
 </p>
 <strong>IMPORTANTE:</strong> Aplicação em Angular + Json-server.
 Para roda-la, acessar "ng serve" (dev server) em um terminal + json-server em outro.
 Precisa ter o Angular CLI e o json-server instalados.
-
+<br>
+<br>
 --
+<br>
 Application in Angular + Json-server.
 To run it, access "ng serve" (dev server) in one terminal + json-server in another.
 You need to have Angular CLI and json-server installed.
 </p>
+<br>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -47,16 +54,22 @@ Esse projeto foi desenvolvido com:
 ## 💻 Projeto
 
 Aplicação onde você cria e edita uma lista de carros.
-
+<br>
+<br>
 --
+<br>
 Application where you create and edit a list of cars.
+<br>
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
-
+<br>
+<br>
 --
+<br>
 This project is under the MIT license.
+<br>
 ---
-
+<br>
 Design by Rafaelly Lemos :wave: - [Acesse o meu LinkedIn](https://www.linkedin.com/in/rafaelly-lemos)
