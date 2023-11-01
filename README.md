@@ -1,6 +1,6 @@
 <h1 align="center"> My List of Cars </h1>
 
-<align="center">
+<p align="center">
 Aplicação em CRUD desenvolvida para testar integração de API REST com HttpClient. 
 API REST fake, feita com Json.
 <br>
