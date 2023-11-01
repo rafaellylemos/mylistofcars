@@ -1,27 +1,62 @@
-# Angular-Http
+<h1 align="center"> My List of Cars </h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.8.
+<p align="center">
+Aplicação em CRUD desenvolvida para testar integração de API REST com HttpClient. 
+API REST fake, feita com Json. 
 
-## Development server
+--
+CRUD application developed to test REST API integration with HttpClient.
+Fake REST API, made with Json.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+OUT/2023
+</p>
+<strong>IMPORTANTE:</strong> Aplicação em Angular + Json-server.
+Para roda-la, acessar "ng serve" (dev server) em um terminal + json-server em outro.
+Precisa ter o Angular CLI e o json-server instalados.
 
-## Code scaffolding
+--
+Application in Angular + Json-server.
+To run it, access "ng serve" (dev server) in one terminal + json-server in another.
+You need to have Angular CLI and json-server installed.
+</p>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-## Build
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<br>
 
-## Running unit tests
+## 🚀 Tecnologias
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Esse projeto foi desenvolvido com:
 
-## Running end-to-end tests
+- HTML e CSS
+- Typescript
+- Angular
+- Node.JS
+- Json
+- Git e GitHub
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## 💻 Projeto
 
-## Further help
+Aplicação onde você cria e edita uma lista de carros.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+--
+Application where you create and edit a list of cars.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+--
+This project is under the MIT license.
+---
+
+Design by Rafaelly Lemos :wave: - [Acesse o meu LinkedIn](https://www.linkedin.com/in/rafaelly-lemos)
